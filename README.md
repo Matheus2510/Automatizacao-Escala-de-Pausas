@@ -1,4 +1,4 @@
-#Automatização - Escala de Pausas
+# Automatização - Escala de Pausas
 
 É comum empresas de médio e grande porte terem de organizar as saídas para descanso e/ou almoço de seus funcionários. Aqui, apresento uma situação específica: uma instituição de atendimento ao cliente, por meio de diferentes canais, com diferentes setores resolvendo os problemas que estão sob seus escopos.
 O objetivo aqui é apresentar uma proposta de automatização de escalas para essas pausas, de forma democrática e com critérios bem claros, tanto para gestores quanto para colaboradores.
@@ -14,7 +14,7 @@ Uma possível solução, e a que foi utilizada aqui, tem seu algoritmo descrito 
 
 Seguindo esses passos, é possível ter uma operação em atividade sempre com força de trabalho adequada à execução das atividades, sem risco de sobrecarregar algum colaborador ou de ter demandas acumuladas por falta de pessoal.
 
-##Tecnologias
+## Tecnologias
 *Python Versão 3.11.1
 
 ## Serviços utilizados
