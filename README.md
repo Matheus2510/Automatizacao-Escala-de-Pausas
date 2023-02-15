@@ -22,7 +22,7 @@ O código da automatização está disponível nos arquivos do projeto. Com algu
 
 ## Serviços utilizados
 * Google Colab
-* 
+ 
 ## Features
 * Automatização de processos
 * List Comprehension
