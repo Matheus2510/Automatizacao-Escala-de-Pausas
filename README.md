@@ -14,23 +14,23 @@ Uma possível solução, e a que foi utilizada aqui, tem seu algoritmo descrito 
 
 Seguindo esses passos, é possível ter uma operação em atividade sempre com força de trabalho adequada à execução das atividades, sem risco de sobrecarregar algum colaborador ou de ter demandas acumuladas por falta de pessoal.
 
+## Como usar
+O código da automatização está disponível nos arquivos do projeto. Com alguns ajustes para adaptar ao cenário específico de cada instituição, é possível reproduzi-lo com certa tranquilidade. Após a escala pronta, sugere-se aqui liberá-la (já que desligamentos e admissões fazem parte da rotina de qualquer empresa) diariamente por meio de sistema próprio ou dashboard, para que os colaboradores possam consultá-la a qualquer momento.
+
 ## Tecnologias
-*Python Versão 3.11.1
+* Python Versão 3.11.1
 
 ## Serviços utilizados
 * Google Colab
-
-## Como usar
-* O código da automatização está disponível nos arquivos do projeto. Com alguns ajustes para adaptar ao cenário específico de cada instituição, é possível reproduzi-lo com certa tranquilidade. Após a escala pronta, sugere-se aqui liberá-la (já que desligamentos e admissões fazem parte da rotina de qualquer empresa) diariamente por meio de sistema próprio ou dashboard, para que os colaboradores possam consultá-la a qualquer momento.
-
+* 
 ## Features
-*Automatização de processos
-*List Comprehension
-*DataFrames
-*Dicionários
-*Funções lambda
-*Função map()
-*Manipulação de data e hora
+* Automatização de processos
+* List Comprehension
+* DataFrames
+* Dicionários
+* Funções lambda
+* Função map()
+* Manipulação de data e hora
 
 ## Versão
 * 1.0.0.0
